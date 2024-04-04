@@ -70,6 +70,7 @@ aside {
 	width: 350px;
 	float: right;
 	background: #ebe7dd;
+	padding-bottom: 60px;
 }
 
 section#visita {
@@ -89,7 +90,7 @@ section#galeria a {
 }
 
 section#galeria {
-	padding: 10px 27px 27px 27px;
+	padding: 0px 27px 7px 27px;
 }
 
 
